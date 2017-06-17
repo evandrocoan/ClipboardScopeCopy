@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Clipboard Scope Copy: Get Current Scope",
+    "command": "copy_scope_to_clipboard"
+  },
+  {
+    "caption": "Clipboard Scope Copy: Get Scope Always Text",
+    "command": "get_scope_always_text"
+  },
+]
