@@ -14,7 +14,7 @@ get the current scope name. But the package `ScopeAlways` and its command should
 
 
 ___
-## Licence
+## License
 
 All files in this repository are released under GNU General Public License v3.0
 or the latest version available on http://www.gnu.org/licenses/gpl.html
